@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JEE7" />
+        <module name="JEE7EAR" />
+        <module name="JEE7Web" />
+        <module name="JEE7Business" />
       </profile>
     </annotationProcessing>
   </component>
