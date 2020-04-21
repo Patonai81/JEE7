@@ -6,4 +6,8 @@
     <alternatives>
     <!--    <class>generator.impl.MockISBNGenerator</class> -->
     </alternatives>
+<interceptors>
+    <class>interceptors.LoggingInterceptor</class>
+</interceptors>
+
 </beans>
